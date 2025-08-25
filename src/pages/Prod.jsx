@@ -20,9 +20,6 @@ const Prod = () => {
         <>
             <div className="container-fluid text-center py-5 bg-warning" id="product-container">
                 <div className="container-fluid d-flex flex-column mb-3 pt-2">
-                    <hr/>
-                    {/* <h1 className="text-start mb-0" style={{color:"black"}}>Products</h1> */}
-                    {/* <div className="mt-1 product-underline" style={{width:"160px", height:"6px", backgroundColor:"#37353e"}}></div> */}
                 </div>
                 <div className="row g-4">
                     {
