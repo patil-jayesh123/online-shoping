@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <>
-      <img src="./src/assets/h.jpg" style={{ width: "100%", height: "" }} />
+      <img src="./assets/h.jpg" style={{ width: "100%", height: "" }} />
 
       <Link
         to="/Product"
