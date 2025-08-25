@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Prod from "./Prod";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       >
         Shop Now
       </Link>
+      <Prod/>
     </>
   );
 };
